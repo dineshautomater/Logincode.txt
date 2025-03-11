@@ -1,1 +1,2 @@
-
+Feature:Creating Valid Credentials for Login Page
+Scenario:Login with Valid "UserName" and "Password"
